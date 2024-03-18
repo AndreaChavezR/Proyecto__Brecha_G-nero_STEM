@@ -29,6 +29,7 @@ trayectoria educativa y profesional.
 ### ¿Se observan patrones significativos de inequidad de género en STEM en grupos raciales específicos?
  - Investigaremos la existencia de patrones notables de inequidad de género en campos STEM dentro de grupos raciales específicos.
  - Identificaremos posibles disparidades en la participación de hombres y mujeres en STEM en contextos raciales específicos.
- - El objetivo final de este proyecto es implementar estrategias efectivas que reduzcan significativamente la brecha de género en el campo de STEM. Buscamos promover la equidad de oportunidades y maximizar el potencial de todas las personas en STEM, contribuyendo así a un futuro más inclusivo e innovador en estas disciplinas.
+
+El objetivo final de este proyecto es implementar estrategias efectivas que reduzcan significativamente la brecha de género en el campo de STEM. Buscamos promover la equidad de oportunidades y maximizar el potencial de todas las personas en STEM, contribuyendo así a un futuro más inclusivo e innovador en estas disciplinas.
 
 
