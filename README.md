@@ -1,7 +1,6 @@
 # Proyecto de Análisis de Datos: Brecha de Género en STEM con Python
 
-:open_book:**Introducción**
-
+:open_book:# Introducción
 
 En el mundo actual, la Ciencia, Tecnología, Ingeniería y Matemáticas (STEM) son campos que impulsan la innovación, el desarrollo y el progreso de nuestra sociedad. Sin embargo, existe una brecha de género notable en estos campos. A pesar de los avances significativos en la igualdad de género en las últimas décadas, las mujeres siguen estando subrepresentadas en las disciplinas de STEM.
 
@@ -10,6 +9,8 @@ En el mundo actual, la Ciencia, Tecnología, Ingeniería y Matemáticas (STEM) s
 Este proyecto está basado en en el El proyecto "Inequality in STEM" disponible en la plataforma de [Kaggle.](https://www.kaggle.com/code/minkles/inequality-in-stem/notebook)
 
 :dart:**Objetivos**
+
+
 Este proyecto tiene como propósito desarrollar un modelo de aprendizaje automático para identificar y comprender las causas principales de la brecha de género en STEM. Utilizaremos gráficos intuitivos y técnicas de machine learning aplicadas a los datos recopilados.
 
 El modelo buscará responder preguntas clave, y complementaremos nuestras respuestas con visualizaciones:
