@@ -1,6 +1,6 @@
 # Proyecto de Análisis de Datos: Brecha de Género en STEM con Python
 
-:open_book:# Introducción
+:open_book: # Introducción
 
 En el mundo actual, la Ciencia, Tecnología, Ingeniería y Matemáticas (STEM) son campos que impulsan la innovación, el desarrollo y el progreso de nuestra sociedad. Sin embargo, existe una brecha de género notable en estos campos. A pesar de los avances significativos en la igualdad de género en las últimas décadas, las mujeres siguen estando subrepresentadas en las disciplinas de STEM.
 
