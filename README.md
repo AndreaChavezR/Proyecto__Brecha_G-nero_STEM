@@ -79,4 +79,67 @@ Dataset después de realizar las modificaciones anteriores
 |Otro Sudamericano	    |    232         |
 | Paraguayo	           |    188         |
 
+#### Tasas de títulos en ciencias por origen hispano
+| origen_hispano       |   titulo_stem  |
+| -------------        | -------------  |
+| Argentino            |    	0.148920   |
+| Venezolano	          |     0.144105   |
+| Chileno	             |     0.137179   |
+| Uruguayo	            |     0.102190   |
+| Colombiano	          |     0.097856   |
+| Boliviano	           |     0.095694   |
+| Peruano	             |     0.092688   |
+| No Hispano/Latino	   |     0.088863   |
+| Español	             |     0.086618   |
+| Panameño	            |     0.083436   |
+| Ecuatoriano	         |     0.078366   |
+| Cubano	              |     0.075640   |
+| Paraguayo	           |     0.074468   |
+| Costarricense	       |     0.069876   |
+| Nicaragüense	        |     0.053937   |
+| Otro Centroamericano	|     0.052910   |
+| Dominicano	          |     0.048491   |
+| Puertorriqueño	      |     0.043362   |
+| Otro Sudamericano	   |     0.043103   |
+| Otros Hispano/Latino	|     0.041634   |
+| Salvadoreño	         |     0.025511   |
+| Guatemalteco	        |     0.024254   |
+| Hondureño	           |     0.023894   |
+| Mexicano	            |     0.021637   |
+
+
+### Gráfico sobre la relación en STEM con el origen hispano y el género
+
+![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/grafico%201.png)
+
+En el anterior grafico se pueden realizar las siguientes observaciones:
+
+- Se observa una variación significativa en la participación entre diferentes orígenes hispanos. Algunos orígenes, como “Argentino” y “Venezolano”, muestran una mayor participación masculina en STEM. Para otros orígenes, como “Boliviano” o “Paraguayo”, la diferencia entre géneros no es tan pronunciada.
+
+- Las altura de las barras correspondientes a cada país o región de origen, se puede comparar la participación en STEM. Esto puede revelar patrones o tendencias específicas, como qué regiones tienen mayor o menor representación en estas áreas.
+
+- Si algunas barras son notablemente más altas o más bajas que otras, esto podría indicar áreas de oportunidad o desafíos particulares en la promoción de STEM entre ciertos grupos.
+
+- Implicaciones Sociales: La participación en STEM es un indicador importante del acceso a educación y oportunidades laborales en campos técnicos.
+
+### Gráfico de tasas de títulos en STEM por edad y sexo
+
+![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/grafico%202.png)
+
+En el anterior grafico se pueden realizar las siguientes observaciones:
+
+- La gráfica muestra una diferencia notable en la representación de género en STEM. El porcentaje de hombres con títulos en STEM es consistentemente más alto que el de las mujeres en todas las edades.
+
+- Ambas curvas muestran un aumento rápido hasta los 20 años, sin embargo, d de los 20 años, hay una disminución gradual, lo que podría indicar una disminución en la participación en la educación o en carreras en STEM.
+
+### Gráfico de la distribución de Género por Origen Hispano en Grupos Raciales
+
+![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/grafico%204.png)
+
+En el anterior grafico se pueden realizar las siguientes observaciones:
+
+- Las barras son coloreadas para representar diferentes orígenes hispanos y géneros; los hombres están marcados con tonos más oscuros mientras que las mujeres están en tonos más claros.
+
+- La gráfica muestra una barra prominente en el grupo racial “Blanco”, indicando una alta cantidad de individuos en esta categoría. Las otras categorías, como “Afroamericano”, “Asiático”, “Indio Americano” y “Otro” tienen barras mucho más bajas, lo que indica una menor cantidad de individuos.
+
 
