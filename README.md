@@ -46,6 +46,6 @@ Antes de comenzar con la limpieza de los datos, se realizó el análisis del con
 - Utilizamos una lista de códigos específicos asociados con ocupaciones en ciencia y tecnología.
 - Paara finalizar se eliminaron columnas no necesarias ('Origen_Hispano', 'Lugar_Nacimiento', 'Raza', 'Ciencia_Tecnologia', 'Ocupacion').
 
-Dataset final 
-![Dataset después de realizar las modificaciones anteriores .](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/imagen%20dataframe.png)
+Dataset después de realizar las modificaciones anteriores
+!(https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/imagen%20dataframe.png)
 
