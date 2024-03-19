@@ -108,7 +108,7 @@ Dataset después de realizar las modificaciones anteriores
 | Mexicano	            |     0.021637   |
 
 
-### Gráfico sobre la relación en STEM con el origen hispano y el género
+#### Gráfico sobre la relación en STEM con el origen hispano y el género
 
 ![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/grafico%201.png)
 
@@ -122,7 +122,7 @@ En el anterior grafico se pueden realizar las siguientes observaciones:
 
 - Implicaciones Sociales: La participación en STEM es un indicador importante del acceso a educación y oportunidades laborales en campos técnicos.
 
-### Gráfico de tasas de títulos en STEM por edad y sexo
+#### Gráfico de tasas de títulos en STEM por edad y sexo
 
 ![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/grafico%202.png)
 
@@ -132,7 +132,7 @@ En el anterior grafico se pueden realizar las siguientes observaciones:
 
 - Ambas curvas muestran un aumento rápido hasta los 20 años, sin embargo, d de los 20 años, hay una disminución gradual, lo que podría indicar una disminución en la participación en la educación o en carreras en STEM.
 
-### Gráfico de la distribución de Género por Origen Hispano en Grupos Raciales
+#### Gráfico de la distribución de Género por Origen Hispano en Grupos Raciales
 
 ![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/grafico%204.png)
 
@@ -141,5 +141,28 @@ En el anterior grafico se pueden realizar las siguientes observaciones:
 - Las barras son coloreadas para representar diferentes orígenes hispanos y géneros; los hombres están marcados con tonos más oscuros mientras que las mujeres están en tonos más claros.
 
 - La gráfica muestra una barra prominente en el grupo racial “Blanco”, indicando una alta cantidad de individuos en esta categoría. Las otras categorías, como “Afroamericano”, “Asiático”, “Indio Americano” y “Otro” tienen barras mucho más bajas, lo que indica una menor cantidad de individuos.
+
+#### Matriz de correlación 
+
+![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/Matriz%20de%20correlaci%C3%B3n.png)
+
+Con la anterior matriz de correlación se pueden realizar las siguientes observaciones:
+
+1. Variables Relacionadas:
+
+- Las variables “Edad” y “título_stem” tienen una correlación positiva débil (valor de 0.097).
+
+- Las variables “Género” y “ocupacion_stem” también tienen una correlación positiva débil (valor de 0.021).
+
+2. Variables No Relacionadas
+
+- Las correlaciones entre “Edad” y “Género”, así como entre “título_stem” y “ocupacion_stem”, son muy bajas (valores cercanos a 0).
+Conclusión:
+
+En general, no hay fuertes relaciones lineales entre estas variables en función de los valores de correlación.
+
+#### Gráfico de regresión lineal 
+
+![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/grafico%205.png)
 
 
