@@ -32,9 +32,17 @@ trayectoria educativa y profesional.
 
 El objetivo final de este proyecto es implementar estrategias efectivas que reduzcan significativamente la brecha de género en el campo de STEM. Buscamos promover la equidad de oportunidades y maximizar el potencial de todas las personas en STEM, contribuyendo así a un futuro más inclusivo e innovador en estas disciplinas.
 
-## Análisis Exploratorio de Datos 
+## Análisis y limpieza de los Datos 
 Para comenzar con el análisis de los datos se utilizó el siguiente conjunto de datos:
-- [ss13pusa.csv]([https://pages.github.com/](https://drive.google.com/file/d/1_5t_pSyMYnaYmBUjjArcUwUQDk7-ho6I/view?usp=sharing)https://drive.google.com/file/d/1_5t_pSyMYnaYmBUjjArcUwUQDk7-ho6I/view?usp=sharing)
+- [ss13pusa.csv](https://drive.google.com/file/d/1_5t_pSyMYnaYmBUjjArcUwUQDk7-ho6I/view?usp=sharing)
 
-Antes de comenzar con la limpieza de los datos, se realizó el análisis del conjunto de datos para definir las columanas a utilizar. 
+Antes de comenzar con la limpieza de los datos, se realizó el análisis del conjunto de datos para definir las columanas a utilizar. Derivado de este análisis se notó que en algunas de las columnas no contaban con datos (NaN) y contenia datos String, debido a esto se realizaron cambios en las siguientes columanas:
+
+- Género: Se Cambio el valor 1 a 0, representando la categoría masculina y el valor 2 a 1, representando la categoría femenina.
+- recodificar_raza: Se agregaron nuevas categorías son 'Hispano', 'Blanco', 'Negro', 'Asiático' y 'Otro'.
+- Creamos una nueva variable llamada 'titulo_stem' para indicar si una persona tiene un título en STEM.
+- Utilizamos un diccionario llamado 'mapa_titulo_stem' para asignar el valor 1 a aquellos con un título STEM y 0 a los demás.
+- Creamos la columna 'ocupacion_stem' para indicar si una persona tiene una ocupación en STEM.
+- Utilizamos una lista de códigos específicos asociados con ocupaciones en ciencia y tecnología.
+- Paara finalizar se eliminaron columnas no necesarias ('Origen_Hispano', 'Lugar_Nacimiento', 'Raza', 'Ciencia_Tecnologia', 'Ocupacion').
 
