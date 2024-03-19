@@ -47,5 +47,36 @@ Antes de comenzar con la limpieza de los datos, se realizó el análisis del con
 - Paara finalizar se eliminaron columnas no necesarias ('Origen_Hispano', 'Lugar_Nacimiento', 'Raza', 'Ciencia_Tecnologia', 'Ocupacion').
 
 Dataset después de realizar las modificaciones anteriores
+
 ![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/imagen%20dataframe.png)
+
+#### Resumen de registros por origen hispano y el total de ocupación STEM 
+
+| origen_hispano       | ocupacion_stem |
+| -------------        | -------------  |
+| No Hispano/Latino    |	   2727306     |
+| Mexicano	            |    329060      |
+| Puertorriqueño	      |    38836       |
+| Cubano	              |    28530       |
+| Salvadoreño	         |    18188       |
+| Otros Hispano/Latino	|    15516       |
+| Guatemalteco	        |    12534       | 
+| Colombiano	          |    10260       |
+| Español	             |    7458        |
+| Dominicano	          |    7424        |
+| Peruano	             |    5826        |
+| Hondureño	           |    5608        |
+| Nicaragüense	        |    5080        |
+| Ecuatoriano	         |    3624        |
+| Venezolano	          |    2748        |
+| Argentino            |   	2686        |
+| Panameño	            |    1630        |
+| Chileno	             |    1560        |
+| Costarricense	       |    1288        |
+| Boliviano	           |    836         |
+| Uruguayo	            |    548         |
+| Otro Centroamericano	|    378         |
+|Otro Sudamericano	    |    232         |
+| Paraguayo	           |    188         |
+
 
