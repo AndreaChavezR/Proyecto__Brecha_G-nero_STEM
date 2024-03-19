@@ -112,11 +112,11 @@ En el anterior grafico se pueden realizar las siguientes observaciones:
 
 - Se observa una variación significativa en la participación entre diferentes orígenes hispanos. Algunos orígenes, como “Argentino” y “Venezolano”, muestran una mayor participación masculina en STEM. Para otros orígenes, como “Boliviano” o “Paraguayo”, la diferencia entre géneros no es tan pronunciada.
 
-- Las altura de las barras correspondientes a cada país o región de origen, se puede comparar la participación en STEM. Esto puede revelar patrones o tendencias específicas, como qué regiones tienen mayor o menor representación en estas áreas.
+- La altura de las barras correspondientes a cada país o región de origen, puede revelar patrones o tendencias específicas, como qué regiones tienen mayor o menor representación en estas áreas.
 
-- Si algunas barras son notablemente más altas o más bajas que otras, esto podría indicar áreas de oportunidad o desafíos particulares en la promoción de STEM entre ciertos grupos.
+- Si algunas barras son notablemente más altas o más bajas que otras, podría indicar áreas de oportunidad o desafíos particulares en la promoción de STEM entre ciertos grupos.
 
-- Implicaciones Sociales: La participación en STEM es un indicador importante del acceso a educación y oportunidades laborales en campos técnicos.
+- La participación en STEM es un indicador importante del acceso a educación y oportunidades laborales en campos técnicos.
 
 #### Gráfico de tasas de títulos en STEM por edad y sexo
 
@@ -126,7 +126,7 @@ En el anterior grafico se pueden realizar las siguientes observaciones:
 
 - La gráfica muestra una diferencia notable en la representación de género en STEM. El porcentaje de hombres con títulos en STEM es consistentemente más alto que el de las mujeres en todas las edades.
 
-- Ambas curvas muestran un aumento rápido hasta los 20 años, sin embargo, d de los 20 años, hay una disminución gradual, lo que podría indicar una disminución en la participación en la educación o en carreras en STEM.
+- Ambas curvas muestran un aumento rápido hasta los 20 años, sin embargo, después de los 20 años, hay una disminución gradual, lo que podría indicar una disminución en la participación en la educación o en carreras en STEM.
 
 #### Gráfico de la distribución de Género por Origen Hispano en Grupos Raciales
 
@@ -134,7 +134,7 @@ En el anterior grafico se pueden realizar las siguientes observaciones:
 
 En el anterior grafico se pueden realizar las siguientes observaciones:
 
-- Las barras son coloreadas para representar diferentes orígenes hispanos y géneros; los hombres están marcados con tonos más oscuros mientras que las mujeres están en tonos más claros.
+- En el gráfico el género masculino está representado con tonos más oscuros mientras que el género femenino están en tonos más claros.
 
 - La gráfica muestra una barra prominente en el grupo racial “Blanco”, indicando una alta cantidad de individuos en esta categoría. Las otras categorías, como “Afroamericano”, “Asiático”, “Indio Americano” y “Otro” tienen barras mucho más bajas, lo que indica una menor cantidad de individuos.
 
