@@ -163,6 +163,8 @@ En general, no hay fuertes relaciones lineales entre estas variables en función
 
 Se observa que una mujer tiene valores bajos tanto en “titulo_s.stem” como en “ocupacion_stem”. En contraste, a un hombre que tiene un valor alto en ambos ejes. Otro punto naranja indica que hay un hombre con un valor bajo en “ocupacion_stem” pero alto en “titulo_s.stem”.
 
+Por lo anterior se descarto el uso de una regresión lineal. 
+
 
 
 
