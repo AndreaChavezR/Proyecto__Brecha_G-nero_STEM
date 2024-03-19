@@ -46,10 +46,6 @@ Antes de comenzar con la limpieza de los datos, se realizó el análisis del con
 - Utilizamos una lista de códigos específicos asociados con ocupaciones en ciencia y tecnología.
 - Paara finalizar se eliminaron columnas no necesarias ('Origen_Hispano', 'Lugar_Nacimiento', 'Raza', 'Ciencia_Tecnologia', 'Ocupacion').
 
-Dataset después de realizar las modificaciones anteriores
-
-![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/imagen%20dataframe.png)
-
 #### Resumen de registros por origen hispano y el total de ocupación STEM 
 
 | origen_hispano       | ocupacion_stem |
@@ -146,7 +142,7 @@ En el anterior grafico se pueden realizar las siguientes observaciones:
 
 ![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/Matriz%20de%20correlaci%C3%B3n.png)
 
-Con la anterior matriz de correlación se pueden realizar las siguientes observaciones:
+Se pueden realizar las siguientes observaciones:
 
 1. Variables Relacionadas:
 
@@ -161,8 +157,13 @@ Conclusión:
 
 En general, no hay fuertes relaciones lineales entre estas variables en función de los valores de correlación.
 
-#### Gráfico de regresión lineal 
+#### Gráfico de dispersión 
 
 ![](https://github.com/AndreaChavezR/Proyecto__Brecha_G-nero_STEM/blob/main/imagenes/grafico%205.png)
+
+Se observa que una mujer tiene valores bajos tanto en “titulo_s.stem” como en “ocupacion_stem”. En contraste, a un hombre que tiene un valor alto en ambos ejes. Otro punto naranja indica que hay un hombre con un valor bajo en “ocupacion_stem” pero alto en “titulo_s.stem”.
+
+
+
 
 
