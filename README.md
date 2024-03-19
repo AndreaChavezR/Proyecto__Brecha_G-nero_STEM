@@ -32,4 +32,9 @@ trayectoria educativa y profesional.
 
 El objetivo final de este proyecto es implementar estrategias efectivas que reduzcan significativamente la brecha de género en el campo de STEM. Buscamos promover la equidad de oportunidades y maximizar el potencial de todas las personas en STEM, contribuyendo así a un futuro más inclusivo e innovador en estas disciplinas.
 
+## Análisis Exploratorio de Datos 
+Para comenzar con el análisis de los datos se utilizó el siguiente conjunto de datos:
+- [ss13pusa.csv]([https://pages.github.com/](https://drive.google.com/file/d/1_5t_pSyMYnaYmBUjjArcUwUQDk7-ho6I/view?usp=sharing)https://drive.google.com/file/d/1_5t_pSyMYnaYmBUjjArcUwUQDk7-ho6I/view?usp=sharing)
+
+Antes de comenzar con la limpieza de los datos, se realizó el análisis del conjunto de datos para definir las columanas a utilizar. 
 
