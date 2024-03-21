@@ -166,6 +166,8 @@ Se observa que una mujer tiene valores bajos tanto en “titulo_s.stem” como e
 Por lo anterior se descarto el uso de una regresión lineal. 
 
 
+## Conclusión 
 
+En última instancia, implementar estrategias efectivas para reducir significativamente la brecha de género en STEM es crucial para promover la equidad de oportunidades y maximizar el potencial de todas las personas en estos campos. Es fundamental adoptar un enfoque inclusivo y proactivo para abordar las desigualdades de género y raciales en STEM y trabajar hacia un futuro más equitativo y diverso en estas áreas.
 
 
